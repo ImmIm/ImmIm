@@ -1,5 +1,10 @@
-### Hi there 👋
-### I'm Kiryl, Full-stack developer from Israel
+
+
+<div id="header" align="center">
+	<h1> Hi there 👋, I'm Kiryl</h1>
+	<h3> Full-stack developer from Israel</h3>
+</div>
+
 
 
 ## My contacts
@@ -12,6 +17,7 @@
 	</a>
 </div>
 
+## My status
 - 🔭 Looking for full-stack JavaScript developer job
 - 🌱 I’m currently learning: Next js
 - 💡 I have 2 years of continuing development education

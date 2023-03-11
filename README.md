@@ -1,5 +1,8 @@
 ### Hi there 👋
+### I'm Kiryl, Full-stack developer from Israel
 
+
+## My contacts
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/kirylsavich/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -9,17 +12,9 @@
 	</a>
 </div>
 
-<!--
-**ImmIm/ImmIm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Looking for full-stack JavaScript developer job
+- 🌱 I’m currently learning: Next js
+- 💡 I have 2 years of continuing development education
+- 🛠 I like to build modern, well organized applications
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -40,7 +40,7 @@
 ## About me
 - 🔭 Looking for full-stack JavaScript developer job
 - 🌱 I’m currently learning: Next js
-- 📫 Write me [email](mailto:kirillsavich90@gmail.com)
+- 📫 Reach me by [email](mailto:kirillsavich90@gmail.com)
 - 💡 I have 2 years of continuing development education
 - 🛠 I like to build modern, well organized applications
 - 🌐 I speak English and Russian

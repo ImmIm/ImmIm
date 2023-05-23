@@ -38,10 +38,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" width="40" height="40" />&nbsp;	   
 
 ## About me
-- 🔭 Looking for full-stack JavaScript developer job
-- 🌱 I’m currently learning: Next js
+- 🌱 I’m curious of: Next js
 - 📫 Reach me by [email](mailto:kirillsavich90@gmail.com)
-- 💡 I have 2 years of continuing development education
+- 💡 I have 3 years of experience
 - 🛠 I like to build modern, well organized applications
 - 🌐 I speak English and Russian
 

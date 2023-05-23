@@ -52,6 +52,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImmIm&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImmIm&theme=discord_old_blurple&utcOffset=8)
 
-📄 Know about my experiences [CV]([cv-link](https://docs.google.com/document/d/121yxGsrvVn22g9eKd9EtXW3F5Dy0sVtWEsZkNND3abc/edit?usp=sharing))
+📄 Know about my experiences [CV](https://docs.google.com/document/d/121yxGsrvVn22g9eKd9EtXW3F5Dy0sVtWEsZkNND3abc/edit?usp=sharing)
 
 
